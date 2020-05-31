@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.https": {
+    
+    },
+    "liveServer.settings.ignoreFiles": [
+    
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass"
+    ]
+}

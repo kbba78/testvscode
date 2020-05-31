@@ -1,0 +1,22 @@
+@media screen and (max-width:768px){
+    .navbar{
+        flex-direction: column;
+
+    }
+    .navbar_menu{
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .navbar_menu li{
+        width: 100%;
+        text-align: center;
+        padding:8px 24px;
+    }
+
+    .navbar_icons{
+        justify-content: center;
+        width: 100%;
+    }
+}
